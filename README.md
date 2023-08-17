@@ -19,7 +19,7 @@ Just clone the repo, and run the next commands in the order provided:
 
 ## Link
 
-[Video]()
+[Video](https://www.youtube.com/watch?v=xNiXxhhIm8s)
 
 ## Credits
 
