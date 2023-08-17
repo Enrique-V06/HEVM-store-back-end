@@ -45,7 +45,7 @@ router.post('/', async (req, res) => {
     if (!newCategoryData) {
       res
         .status(400)
-        .json({ message: 'No categories found' });
+        .json({ message: 'Failed to create category' });
       return;
     }
     res.status(200).json(newCategoryData);
